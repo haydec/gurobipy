@@ -1,0 +1,15 @@
+\ Model Economic Dispatch_copy
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+Minimize
+  + 505.65 Constant
+Subject To
+ DemandConst: Power[Gen1] + Power[Gen2] + Power[Gen3] + Power[Gen4]
+   + Power[Gen5] = 1141.4
+Bounds
+ -infinity <= Power[Gen1] <= 206
+ -infinity <= Power[Gen2] <= 284
+ -infinity <= Power[Gen3] <= 189
+ -infinity <= Power[Gen4] <= 266
+ -infinity <= Power[Gen5] <= 53
+ Constant = 1
+End
