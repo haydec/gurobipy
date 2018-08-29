@@ -19742,3 +19742,180 @@ Solved in 8 iterations and 0.02 seconds
 Optimal objective  4.130635845e+05
 Parameter Method unchanged
    Value: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.0.1 (win64, Python) logging started 08/29/18 14:38:29
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OutputFlag to 1
+   Prev: 0  Min: 0  Max: 1  Default: 1
+Optimize a model with 72 rows, 4 columns and 288 nonzeros
+Model has 4 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 2e+01]
+  QObjective range [2e-01, 4e-01]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [5e+02, 8e+02]
+Presolve removed 5 rows and 0 columns
+Presolve time: 0.01s
+
+Barrier solved model in 0 iterations and 0.01 seconds
+Model is infeasible
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 72 rows, 4 columns and 288 nonzeros
+Model has 4 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 2e+01]
+  QObjective range [2e-01, 4e-01]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [5e+02, 8e+02]
+Presolve removed 5 rows and 0 columns
+Presolve time: 0.01s
+
+Barrier solved model in 0 iterations and 0.01 seconds
+Model is infeasible
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.4200000e+02   1.267500e+03   0.000000e+00      0s
+
+IIS computed: 2 constraints and 0 bounds
+IIS runtime: 0.00 seconds
+Warning: linear constraint 0 and linear constraint 1 have the same name "DemandConst"
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 72 rows, 4 columns and 288 nonzeros
+Model has 4 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 2e+01]
+  QObjective range [2e-01, 4e-01]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [5e+02, 8e+02]
+Presolve removed 5 rows and 0 columns
+Presolve time: 0.01s
+
+Barrier solved model in 0 iterations and 0.01 seconds
+Model is infeasible
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.4200000e+02   1.267500e+03   0.000000e+00      0s
+
+IIS computed: 2 constraints and 0 bounds
+IIS runtime: 0.00 seconds
+Warning: linear constraint 0 and linear constraint 1 have the same name "DemandConst"
+
+Gurobi 8.0.1 (win64, Python) logging started 08/29/18 22:16:33
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 12868 rows, 11372 columns and 14308 nonzeros
+Model has 4 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 2e+01]
+  QObjective range [2e-01, 4e-01]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [2e+01, 8e+02]
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 13100 rows, 11484 columns and 14564 nonzeros
+Model has 4 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 2e+01]
+  QObjective range [2e-01, 4e-01]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [2e+01, 8e+02]
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 36 rows, 16 columns and 48 nonzeros
+Model has 4 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 2e+01]
+  QObjective range [2e-01, 4e-01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [2e+01, 5e+02]
+Presolve removed 35 rows and 12 columns
+Presolve time: 0.01s
+Presolved: 1 rows, 4 columns, 4 nonzeros
+Presolved model has 4 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 1.000e+00
+ Factor Ops : 1.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.27707669e+06 -1.87859391e+06  2.50e+03 9.49e+02  1.10e+06     0s
+   1   1.91612666e+04 -5.98049316e+05  2.50e-03 9.49e-04  7.72e+04     0s
+   2   1.90592858e+04  1.18738596e+04  1.87e-05 7.11e-06  8.98e+02     0s
+   3   1.83056629e+04  1.76925777e+04  1.88e-11 7.11e-12  7.66e+01     0s
+   4   1.82804417e+04  1.82703766e+04  0.00e+00 1.42e-14  1.26e+00     0s
+   5   1.82803767e+04  1.82803668e+04  0.00e+00 0.00e+00  1.25e-03     0s
+   6   1.82803767e+04  1.82803767e+04  0.00e+00 1.42e-14  1.25e-06     0s
+   7   1.82803767e+04  1.82803767e+04  2.84e-14 0.00e+00  1.25e-09     0s
+
+Barrier solved model in 7 iterations and 0.02 seconds
+Optimal objective 1.82803767e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 468 rows, 208 columns and 624 nonzeros
+Model has 4 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 2e+01]
+  QObjective range [2e-01, 4e-01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [2e+01, 5e+02]
+Presolve removed 467 rows and 204 columns
+Presolve time: 0.01s
+Presolved: 1 rows, 4 columns, 4 nonzeros
+Presolved model has 4 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 1.000e+00
+ Factor Ops : 1.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.27707669e+06 -1.87859391e+06  2.50e+03 9.49e+02  1.10e+06     0s
+   1   1.91612666e+04 -5.98049316e+05  2.50e-03 9.49e-04  7.72e+04     0s
+   2   1.90592858e+04  1.18738596e+04  1.87e-05 7.11e-06  8.98e+02     0s
+   3   1.83056629e+04  1.76925777e+04  1.88e-11 7.11e-12  7.66e+01     0s
+   4   1.82804417e+04  1.82703766e+04  0.00e+00 1.42e-14  1.26e+00     0s
+   5   1.82803767e+04  1.82803668e+04  0.00e+00 0.00e+00  1.25e-03     0s
+   6   1.82803767e+04  1.82803767e+04  0.00e+00 1.42e-14  1.25e-06     0s
+   7   1.82803767e+04  1.82803767e+04  2.84e-14 0.00e+00  1.25e-09     0s
+
+Barrier solved model in 7 iterations and 0.03 seconds
+Optimal objective 1.82803767e+04
+
+
+Gurobi 8.0.1 (win64, Python) logging started 08/29/18 23:52:17
+
+
+Gurobi 8.0.1 (win64, Python) logging started 08/29/18 23:56:55
+
