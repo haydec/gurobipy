@@ -19742,3 +19742,1356 @@ Solved in 8 iterations and 0.02 seconds
 Optimal objective  4.130635845e+05
 Parameter Method unchanged
    Value: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.0.1 (win64, Python) logging started 08/24/18 14:06:25
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.0.1 (win64, Python) logging started 08/24/18 16:32:10
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OutputFlag to 1
+   Prev: 0  Min: 0  Max: 1  Default: 1
+Optimize a model with 2 rows, 10 columns and 10 nonzeros
+Model has 5 quadratic objective terms
+Model has 1 quadratic constraint
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 9e+04]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.02s
+Presolved: 1 rows, 5 columns, 5 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 1.000e+00
+ Factor Ops : 1.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  3.11e+05     0s
+   1   8.60327366e+04  8.40121158e+04  2.13e+01 2.43e-13  1.28e+03     0s
+   2   8.40400927e+04  8.40378500e+04  2.29e-02 8.36e-14  1.39e+00     0s
+   3   8.40378526e+04  8.40378500e+04  2.50e-05 1.32e-13  1.53e-03     0s
+   4   8.40378500e+04  8.40378500e+04  2.74e-08 7.95e-14  1.69e-06     0s
+   5   8.40378500e+04  8.40378500e+04  2.74e-11 2.71e-13  1.69e-09     0s
+
+Barrier solved model in 5 iterations and 0.05 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 3 rows, 15 columns and 15 nonzeros
+Model has 5 quadratic objective terms
+Model has 2 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 9e+04]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.01s
+Presolved: 2 rows, 10 columns, 10 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 2.000e+00
+ Factor Ops : 2.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  2.85e+05     0s
+   1   8.91847983e+04  8.39573998e+04  3.38e+01 1.83e-13  1.99e+03     0s
+   2   8.40434083e+04  8.40378499e+04  3.68e-02 0.00e+00  2.16e+00     0s
+   3   8.40378560e+04  8.40378500e+04  3.92e-05 7.01e-14  2.31e-03     0s
+   4   8.40378500e+04  8.40378500e+04  3.92e-08 6.44e-14  2.31e-06     0s
+   5   8.40378500e+04  8.40378500e+04  3.92e-11 3.66e-14  2.31e-09     0s
+
+Barrier solved model in 5 iterations and 0.04 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 4 rows, 20 columns and 20 nonzeros
+Model has 5 quadratic objective terms
+Model has 3 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 9e+04]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.06s
+Presolved: 3 rows, 15 columns, 15 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 3.000e+00
+ Factor Ops : 3.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  2.75e+05     0s
+   1   9.14778391e+04  8.38709307e+04  5.06e+01 2.54e-13  2.83e+03     0s
+   2   8.40452661e+04  8.40378498e+04  5.15e-02 1.12e-13  2.88e+00     0s
+   3   8.40378579e+04  8.40378500e+04  5.46e-05 3.30e-14  3.05e-03     0s
+   4   8.40378500e+04  8.40378500e+04  5.46e-08 8.45e-15  3.05e-06     0s
+   5   8.40378500e+04  8.40378500e+04  5.46e-11 5.55e-14  3.05e-09     0s
+
+Barrier solved model in 5 iterations and 0.10 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 5 rows, 25 columns and 25 nonzeros
+Model has 5 quadratic objective terms
+Model has 4 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 9e+04]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.02s
+Presolved: 4 rows, 20 columns, 20 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 4.000e+00
+ Factor Ops : 4.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  2.69e+05     0s
+   1   9.26521541e+04  8.38136468e+04  5.91e+01 1.85e-13  3.22e+03     0s
+   2   8.40465343e+04  8.40378498e+04  6.10e-02 8.07e-14  3.32e+00     0s
+   3   8.40378593e+04  8.40378500e+04  6.46e-05 1.30e-13  3.52e-03     0s
+   4   8.40378500e+04  8.40378500e+04  6.46e-08 0.00e+00  3.52e-06     0s
+   5   8.40378500e+04  8.40378500e+04  6.46e-11 3.14e-14  3.52e-09     0s
+
+Barrier solved model in 5 iterations and 0.05 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 6 rows, 30 columns and 30 nonzeros
+Model has 5 quadratic objective terms
+Model has 5 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 9e+04]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.04s
+Presolved: 5 rows, 25 columns, 25 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 5.000e+00
+ Factor Ops : 5.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  2.65e+05     0s
+   1   9.33642530e+04  8.37747330e+04  6.43e+01 3.31e-13  3.44e+03     0s
+   2   8.40473132e+04  8.40378497e+04  6.69e-02 4.07e-14  3.58e+00     0s
+   3   8.40378601e+04  8.40378500e+04  7.08e-05 1.10e-13  3.80e-03     0s
+   4   8.40378500e+04  8.40378500e+04  7.08e-08 1.56e-13  3.80e-06     0s
+   5   8.40378500e+04  8.40378500e+04  7.08e-11 2.79e-14  3.80e-09     0s
+
+Barrier solved model in 5 iterations and 0.08 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 7 rows, 35 columns and 35 nonzeros
+Model has 5 quadratic objective terms
+Model has 6 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 9e+04]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.01s
+Presolved: 6 rows, 30 columns, 30 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 6.000e+00
+ Factor Ops : 6.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  2.63e+05     0s
+   1   9.38421656e+04  8.37468753e+04  6.77e+01 1.71e-13  3.59e+03     0s
+   2   8.40478390e+04  8.40378497e+04  7.08e-02 1.22e-13  3.75e+00     0s
+   3   8.40378607e+04  8.40378500e+04  7.49e-05 2.08e-14  3.97e-03     0s
+   4   8.40378500e+04  8.40378500e+04  7.49e-08 7.02e-14  3.97e-06     0s
+   5   8.40378500e+04  8.40378500e+04  7.49e-11 5.27e-14  3.97e-09     0s
+
+Barrier solved model in 5 iterations and 0.03 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 8 rows, 40 columns and 40 nonzeros
+Model has 5 quadratic objective terms
+Model has 7 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 9e+04]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.01s
+Presolved: 7 rows, 35 columns, 35 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 7.000e+00
+ Factor Ops : 7.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  2.61e+05     0s
+   1   9.41851057e+04  8.37260317e+04  7.02e+01 3.18e-13  3.69e+03     0s
+   2   8.40482177e+04  8.40378497e+04  7.36e-02 1.74e-13  3.87e+00     0s
+   3   8.40378611e+04  8.40378500e+04  7.79e-05 1.55e-14  4.10e-03     0s
+   4   8.40378500e+04  8.40378500e+04  7.79e-08 7.72e-14  4.10e-06     0s
+   5   8.40378500e+04  8.40378500e+04  7.79e-11 4.91e-14  4.10e-09     0s
+
+Barrier solved model in 5 iterations and 0.03 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 45 columns and 45 nonzeros
+Model has 5 quadratic objective terms
+Model has 8 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 9e+04]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.01s
+Presolved: 8 rows, 40 columns, 40 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 8.000e+00
+ Factor Ops : 8.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  2.60e+05     0s
+   1   9.44431779e+04  8.37098794e+04  7.20e+01 1.30e-13  3.76e+03     0s
+   2   8.40485035e+04  8.40378496e+04  7.57e-02 2.59e-13  3.96e+00     0s
+   3   8.40378614e+04  8.40378500e+04  8.01e-05 1.45e-13  4.19e-03     0s
+   4   8.40378500e+04  8.40378500e+04  8.01e-08 8.27e-14  4.19e-06     0s
+   5   8.40378500e+04  8.40378500e+04  8.01e-11 1.41e-13  4.19e-09     0s
+
+Barrier solved model in 5 iterations and 0.05 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 10 rows, 50 columns and 50 nonzeros
+Model has 5 quadratic objective terms
+Model has 9 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 1e+05]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.07s
+Presolved: 9 rows, 45 columns, 45 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 9.000e+00
+ Factor Ops : 9.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  2.59e+05     0s
+   1   9.46444174e+04  8.36970073e+04  7.34e+01 1.71e-13  3.82e+03     0s
+   2   8.40487269e+04  8.40378496e+04  7.74e-02 2.82e-13  4.03e+00     0s
+   3   8.40378616e+04  8.40378500e+04  8.19e-05 1.72e-13  4.26e-03     0s
+   4   8.40378500e+04  8.40378500e+04  8.19e-08 2.13e-13  4.26e-06     0s
+   5   8.40378500e+04  8.40378500e+04  8.19e-11 1.01e-13  4.26e-09     0s
+
+Barrier solved model in 5 iterations and 0.10 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 11 rows, 55 columns and 55 nonzeros
+Model has 5 quadratic objective terms
+Model has 10 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 1e+05]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.01s
+Presolved: 10 rows, 50 columns, 50 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 1.000e+01
+ Factor Ops : 1.000e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  2.58e+05     0s
+   1   9.48057359e+04  8.36865142e+04  7.46e+01 1.30e-13  3.87e+03     0s
+   2   8.40489062e+04  8.40378496e+04  7.87e-02 2.01e-13  4.08e+00     0s
+   3   8.40378618e+04  8.40378500e+04  8.33e-05 1.81e-14  4.32e-03     0s
+   4   8.40378500e+04  8.40378500e+04  8.33e-08 1.23e-13  4.32e-06     0s
+   5   8.40378500e+04  8.40378500e+04  8.33e-11 1.23e-14  4.32e-09     0s
+
+Barrier solved model in 5 iterations and 0.03 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 12 rows, 60 columns and 60 nonzeros
+Model has 5 quadratic objective terms
+Model has 11 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 5e+02]
+  QRHS range       [9e+04, 1e+05]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.01s
+Presolved: 29 rows, 64 columns, 85 nonzeros
+Presolved model has 2 second-order cone constraints
+Ordering time: 0.00s
+
+Barrier statistics:
+ Dense cols : 1
+ AA' NZ     : 8.000e+01
+ Factor NZ  : 2.020e+02
+ Factor Ops : 2.484e+03 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0  -3.55455035e+04 -3.55455035e+04  1.87e+05 1.73e+00  3.74e+04     0s
+   1  -5.32298611e+03  7.80123287e+03  2.49e+04 4.73e-02  4.81e+03     0s
+   2   7.90697442e+03  6.60745550e+03  2.39e+03 5.20e-08  4.76e+02     0s
+   3   1.02966948e+04  8.37691599e+03  6.24e+02 1.55e-13  1.37e+02     0s
+   4   1.37612744e+04  1.18247707e+04  2.32e+02 7.15e-13  6.66e+01     0s
+   5   1.39768505e+04  1.48364719e+04  1.65e+02 2.49e-12  3.74e+01     0s
+   6   1.72349437e+04  1.81340785e+04  1.01e+02 6.56e-12  3.30e+01     0s
+   7   1.88265895e+04  2.21280234e+04  7.68e+01 1.13e-10  2.76e+01     0s
+   8   2.42682101e+04  3.05755351e+04  4.75e+01 6.72e-10  2.11e+01     0s
+   9   2.86750396e+04  3.73941433e+04  3.51e+01 8.82e-09  1.82e+01     0s
+  10   3.07699471e+04  4.43182227e+04  3.18e+01 5.21e-08  1.49e+01     0s
+  11   3.47638311e+04  5.37824041e+04  2.56e+01 2.65e-07  1.07e+01     0s
+  12   3.71523936e+04  5.75823082e+04  2.31e+01 1.05e-07  9.92e+00     0s
+  13   3.88246884e+04  5.99632551e+04  2.12e+01 3.98e-07  7.53e+00     0s
+  14   3.98234362e+04  6.33367164e+04  2.02e+01 6.38e-08  5.70e+00     0s
+  15   4.13550943e+04  6.63592479e+04  1.89e+01 1.18e-05  3.86e+00     0s
+  16   4.20830961e+04  6.80187402e+04  1.84e+01 1.54e-05  3.42e+00     0s
+  17   4.27800895e+04  7.47491428e+04  1.79e+01 8.49e-03  6.30e+00     0s
+  18   4.86587827e+04  6.32527354e+04  1.46e+01 8.55e-03  2.36e+01     0s
+  19   5.20772022e+04  7.52023096e+04  1.41e+01 7.14e-03  3.08e+01     0s
+  20   7.10890892e+04  9.54789065e+04  9.84e+00 3.94e-03  1.39e+02     0s
+  21   8.96769908e+04  1.18257331e+05  7.51e+00 2.19e-03  2.97e+02     0s
+  22   9.81822803e+04  1.34560544e+05  6.24e+00 1.50e-03  2.99e+02     0s
+  23   1.08406786e+05  1.57426725e+05  4.98e+00 4.39e-04  3.19e+02     0s
+  24   1.16922249e+05  1.61200779e+05  4.09e+00 1.81e-04  2.68e+02     0s
+  25   1.27713331e+05  1.69711699e+05  3.11e+00 5.45e-04  3.15e+02     0s
+  26   1.43689586e+05  1.93735472e+05  2.57e+00 8.40e-04  3.66e+02     0s
+  27   1.60064834e+05  3.67792360e+05  2.31e+00 4.28e-03  9.50e+02     0s
+  28   1.60941859e+05  4.50843344e+05  2.28e+00 6.81e-03  9.19e+02     0s
+  29   1.62084086e+05  1.20461829e+07  2.25e+00 6.70e-03  9.34e+02     0s
+  30   1.65877408e+05  2.57139772e+07  2.24e+00 6.85e-03  8.48e+02     0s
+  31   1.64344437e+05  8.65455608e+08  2.24e+00 7.84e-03  4.65e+03     0s
+  32   6.57057610e+04  5.06150000e+02  2.13e+05 1.00e+03  2.14e+07     0s
+  33   2.96744649e+04  2.53507960e+04  9.91e+01 3.01e+00  3.32e+04     0s
+  34   1.23397717e+05  5.96468803e+04  2.67e+00 1.01e-01  8.21e+02     0s
+  35   1.42864292e+05  1.72870162e+05  1.70e+00 2.55e-04  3.75e+02     0s
+  36   1.74934052e+05  2.70148201e+05  1.20e+00 6.10e-04  9.00e+02     0s
+  37   4.32810493e+05  6.77154573e+06  1.98e+00 1.96e-01  1.13e+05     0s
+  38   4.49719908e+06  2.67049968e+06  1.32e+00 1.27e-01  2.16e+05     0s
+  39*  2.16819106e+09  1.47683119e+09  4.74e-04 3.79e-03  2.34e-01     0s
+  40*  4.11884934e+10  8.24626343e+10  7.36e-06 8.16e-03  4.71e-03     0s
+  41*  2.51009831e+13  3.97637622e+13  7.61e-08 1.09e-01  2.91e-05     0s
+  42*  2.59766035e+14  8.40934231e+15  3.16e-07 4.37e+02  6.19e-05     0s
+  43*  3.90621666e+15  7.57655220e+15  9.85e-07 2.04e+05  3.40e-06     0s
+  44*  4.74301925e+14  9.20694560e+15  7.55e-06 3.72e+04  3.42e-08     0s
+  45*  8.33188897e+14  3.32472253e+16  4.02e-06 2.11e+04  6.42e-07     0s
+  46*  6.57555015e+16  7.39316492e+16  9.97e-07 1.35e+03  2.57e-08     0s
+  47*  3.25306892e+18  9.71339096e+17  2.02e-05 5.55e+02  2.86e-10     0s
+  48*  3.75719528e+18  1.01208605e+18  6.86e-04 4.38e+03  4.03e-09     0s
+  49*  3.57105109e+18  1.07998577e+18  6.87e-04 6.80e+03  6.88e-09     0s
+  50*  3.41088778e+18  1.44788613e+18  6.63e-04 5.31e+03  7.56e-10     0s
+  51*  2.35341655e+18  1.41937769e+18  1.65e-03 8.89e+03  2.42e-09     0s
+  52*  2.34578598e+18  6.85105107e+17  1.65e-03 7.56e+03  2.86e-09     0s
+  53*  2.09539467e+18  8.89437804e+17  1.71e-03 1.18e+04  6.33e-09     0s
+  54*  2.07060751e+18  8.97987147e+17  1.90e-03 1.18e+04  6.37e-09     0s
+  55*  1.50880501e+18  7.08405332e+17  1.93e-03 1.20e+04  6.74e-09     0s
+  56*  1.61968454e+18  7.25892793e+17  2.04e-03 1.26e+04  8.06e-09     0s
+  57*  1.24406728e+18  7.01821646e+17  2.26e-03 1.69e+04  1.25e-08     0s
+  58*  9.11652508e+17  6.74741433e+17  1.09e-02 2.37e+04  1.13e-08     0s
+  59*  6.54896410e+17  5.16498328e+17  1.21e-02 2.52e+04  1.28e-08     0s
+  60*  4.82421899e+17  4.36515098e+17  1.24e-02 2.96e+04  1.54e-08     0s
+  61*  4.34883105e+17  4.02473003e+17  1.26e-02 3.03e+04  1.51e-08     0s
+  62*  3.15591048e+17  3.07819721e+17  1.59e-02 3.17e+04  1.36e-08     0s
+  63*  2.52980978e+17  2.91730258e+17  1.48e-02 3.96e+04  1.50e-08     0s
+  64*  2.85570803e+17  3.90482031e+17  1.45e-02 4.74e+04  1.33e-08     0s
+  65*  2.46747222e+17  3.25779362e+17  1.49e-02 4.60e+04  1.39e-08     0s
+  66*  1.71860999e+17  2.65662491e+17  1.35e-02 5.42e+04  1.63e-08     0s
+  67*  1.63294400e+17  2.57719041e+17  1.37e-02 5.72e+04  1.97e-08     0s
+  68*  1.68947676e+17  2.92853738e+17  1.39e-02 6.23e+04  1.82e-08     0s
+
+Barrier performed 68 iterations in 0.20 seconds
+Numerical trouble encountered
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OutputFlag to 1
+   Prev: 0  Min: 0  Max: 1  Default: 1
+Optimize a model with 2 rows, 10 columns and 10 nonzeros
+Model has 5 quadratic objective terms
+Model has 1 quadratic constraint
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 9e+04]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.03s
+Presolved: 1 rows, 5 columns, 5 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 1.000e+00
+ Factor Ops : 1.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  3.11e+05     0s
+   1   8.60327366e+04  8.40121158e+04  2.13e+01 2.43e-13  1.28e+03     0s
+   2   8.40400927e+04  8.40378500e+04  2.29e-02 8.36e-14  1.39e+00     0s
+   3   8.40378526e+04  8.40378500e+04  2.50e-05 1.32e-13  1.53e-03     0s
+   4   8.40378500e+04  8.40378500e+04  2.74e-08 7.95e-14  1.69e-06     0s
+   5   8.40378500e+04  8.40378500e+04  2.74e-11 2.71e-13  1.69e-09     0s
+
+Barrier solved model in 5 iterations and 0.06 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 3 rows, 15 columns and 15 nonzeros
+Model has 5 quadratic objective terms
+Model has 2 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 9e+04]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.01s
+Presolved: 2 rows, 10 columns, 10 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 2.000e+00
+ Factor Ops : 2.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  2.85e+05     0s
+   1   8.91847983e+04  8.39573998e+04  3.38e+01 1.83e-13  1.99e+03     0s
+   2   8.40434083e+04  8.40378499e+04  3.68e-02 0.00e+00  2.16e+00     0s
+   3   8.40378560e+04  8.40378500e+04  3.92e-05 7.01e-14  2.31e-03     0s
+   4   8.40378500e+04  8.40378500e+04  3.92e-08 6.44e-14  2.31e-06     0s
+   5   8.40378500e+04  8.40378500e+04  3.92e-11 3.66e-14  2.31e-09     0s
+
+Barrier solved model in 5 iterations and 0.04 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 4 rows, 20 columns and 20 nonzeros
+Model has 5 quadratic objective terms
+Model has 3 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 9e+04]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.02s
+Presolved: 3 rows, 15 columns, 15 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 3.000e+00
+ Factor Ops : 3.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  2.75e+05     0s
+   1   9.14778391e+04  8.38709307e+04  5.06e+01 2.54e-13  2.83e+03     0s
+   2   8.40452661e+04  8.40378498e+04  5.15e-02 1.12e-13  2.88e+00     0s
+   3   8.40378579e+04  8.40378500e+04  5.46e-05 3.30e-14  3.05e-03     0s
+   4   8.40378500e+04  8.40378500e+04  5.46e-08 8.45e-15  3.05e-06     0s
+   5   8.40378500e+04  8.40378500e+04  5.46e-11 5.55e-14  3.05e-09     0s
+
+Barrier solved model in 5 iterations and 0.04 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 5 rows, 25 columns and 25 nonzeros
+Model has 5 quadratic objective terms
+Model has 4 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 9e+04]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.01s
+Presolved: 4 rows, 20 columns, 20 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 4.000e+00
+ Factor Ops : 4.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  2.69e+05     0s
+   1   9.26521541e+04  8.38136468e+04  5.91e+01 1.85e-13  3.22e+03     0s
+   2   8.40465343e+04  8.40378498e+04  6.10e-02 8.07e-14  3.32e+00     0s
+   3   8.40378593e+04  8.40378500e+04  6.46e-05 1.30e-13  3.52e-03     0s
+   4   8.40378500e+04  8.40378500e+04  6.46e-08 0.00e+00  3.52e-06     0s
+   5   8.40378500e+04  8.40378500e+04  6.46e-11 3.14e-14  3.52e-09     0s
+
+Barrier solved model in 5 iterations and 0.05 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 6 rows, 30 columns and 30 nonzeros
+Model has 5 quadratic objective terms
+Model has 5 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 1e+05]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.02s
+Presolved: 5 rows, 25 columns, 25 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 5.000e+00
+ Factor Ops : 5.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  2.65e+05     0s
+   1   9.33642530e+04  8.37747330e+04  6.43e+01 3.31e-13  3.44e+03     0s
+   2   8.40473132e+04  8.40378497e+04  6.69e-02 4.07e-14  3.58e+00     0s
+   3   8.40378601e+04  8.40378500e+04  7.08e-05 1.10e-13  3.80e-03     0s
+   4   8.40378500e+04  8.40378500e+04  7.08e-08 1.56e-13  3.80e-06     0s
+   5   8.40378500e+04  8.40378500e+04  7.08e-11 2.79e-14  3.80e-09     0s
+
+Barrier solved model in 5 iterations and 0.04 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 7 rows, 35 columns and 35 nonzeros
+Model has 5 quadratic objective terms
+Model has 6 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 5e+02]
+  QRHS range       [9e+04, 1e+05]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.01s
+Presolved: 24 rows, 39 columns, 60 nonzeros
+Presolved model has 2 second-order cone constraints
+Ordering time: 0.00s
+
+Barrier statistics:
+ Dense cols : 1
+ AA' NZ     : 8.000e+01
+ Factor NZ  : 1.970e+02
+ Factor Ops : 2.479e+03 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0  -3.55455035e+04 -3.55455035e+04  1.86e+05 1.72e+00  3.73e+04     0s
+   1  -5.35023966e+03  7.84460160e+03  2.49e+04 4.82e-02  4.71e+03     0s
+   2   7.90398373e+03  6.61437537e+03  2.39e+03 5.30e-08  4.76e+02     0s
+   3   1.02909265e+04  8.41001439e+03  6.26e+02 1.29e-13  1.43e+02     0s
+   4   1.37622267e+04  1.18399669e+04  2.32e+02 4.56e-13  7.95e+01     0s
+   5   1.39768952e+04  1.48489948e+04  1.65e+02 3.12e-12  3.98e+01     0s
+   6   1.72274405e+04  1.81398212e+04  1.01e+02 2.52e-11  4.13e+01     0s
+   7   1.81008499e+04  2.15150457e+04  8.33e+01 1.70e-10  2.66e+01     0s
+   8   2.03689512e+04  2.65489471e+04  6.80e+01 4.77e-10  2.43e+01     0s
+   9   2.65721126e+04  3.96034762e+04  4.10e+01 1.05e-08  2.15e+01     0s
+  10   3.55963494e+04  4.42116525e+04  2.87e+01 3.07e-09  6.53e+01     0s
+  11   3.63262612e+04  4.58089179e+04  2.64e+01 1.11e-08  5.71e+01     0s
+  12   4.03539159e+04  5.43927476e+04  2.01e+01 4.82e-08  2.88e+01     0s
+  13   4.44498718e+04  5.76410761e+04  1.71e+01 6.24e-07  9.50e+01     0s
+  14   6.84293255e+04  8.66399939e+04  9.27e+00 4.81e-07  8.38e+01     0s
+  15   7.53967679e+04  9.60178224e+04  7.87e+00 2.99e-06  1.24e+02     0s
+  16   8.61666099e+04  1.09356348e+05  6.44e+00 1.48e-06  1.49e+02     0s
+  17   9.20995816e+04  1.20750955e+05  5.65e+00 1.92e-06  1.43e+02     0s
+  18   1.03027421e+05  1.59116011e+05  4.77e+00 6.30e-05  4.63e+02     0s
+  19   1.05708226e+05  1.64524033e+05  4.56e+00 8.48e-05  4.60e+02     0s
+  20   1.13824087e+05  1.82047102e+05  3.86e+00 6.92e-04  5.27e+02     0s
+  21   1.39765215e+05  1.88527930e+05  2.69e+00 9.01e-03  6.05e+02     0s
+  22   1.42235695e+05  2.24340659e+05  2.56e+00 5.42e-03  5.51e+02     0s
+  23   1.46507892e+05  2.49199573e+05  2.48e+00 1.63e-03  5.62e+02     0s
+  24   1.51311250e+05  4.72750203e+05  2.33e+00 2.19e-02  6.95e+02     0s
+  25   1.53020784e+05  5.95367501e+05  2.30e+00 2.16e-02  6.75e+02     0s
+  26   1.55073232e+05  1.19606606e+06  2.26e+00 2.10e-02  6.18e+02     0s
+  27   1.56715195e+05  2.07803186e+06  2.25e+00 2.09e-02  5.94e+02     0s
+  28   1.56774830e+05  1.61353009e+08  2.25e+00 1.61e-02  5.98e+03     0s
+  29   1.57606231e+05  2.29005095e+09  2.24e+00 3.94e-03  1.82e+04     0s
+  30   1.33988588e+05  5.06150000e+02  4.36e+05 1.00e+03  4.38e+07     0s
+  31   1.61229993e+04  9.53486382e+06  2.07e+04 2.76e+02  1.66e+06     0s
+  32   2.82026837e+04 -4.65359614e+04  1.14e+03 1.72e+01  8.58e+04     0s
+  33   1.84850875e+04  9.75312452e+03  1.13e+02 1.88e+00  4.65e+03     0s
+  34   3.46934215e+04  2.01338733e+04  3.26e+01 3.77e-01  1.56e+03     0s
+  35   6.57030814e+04  4.67222744e+04  1.06e+01 5.71e-07  9.77e+02     0s
+  36   1.40864756e+05  7.38389448e+04  8.96e+00 5.83e-07  2.53e+03     0s
+  37   1.11421923e+05  1.01757874e+05  3.13e+00 1.05e-06  8.93e+02     0s
+  38   1.30205190e+05  1.51369955e+05  2.26e+00 2.59e-05  8.30e+02     0s
+  39   1.41385335e+05  1.66290216e+05  1.55e+00 1.02e-04  7.29e+02     0s
+  40   1.69681584e+05  2.13220694e+05  1.22e+00 3.64e-04  1.42e+03     0s
+  41*  2.44206792e+05  3.94054188e+05  1.70e-02 1.78e-05  2.14e-01     0s
+  42*  5.82040501e+05  3.32137673e+06  2.40e-03 1.52e-05  3.39e-02     0s
+  43*  1.16724241e+08  8.53794516e+08  1.67e-05 7.14e-06  2.92e-04     0s
+  44*  1.09933616e+10  8.32025276e+09  2.26e-07 1.38e-06  1.71e-06     0s
+  45*  1.00982230e+10  2.55723538e+11  6.81e-08 7.05e-05  8.30e-07     0s
+  46*  3.90833520e+11  1.89503372e+12  3.42e-09 7.00e-04  3.83e-08     0s
+  47*  1.07928164e+14  1.73092316e+15  2.05e-11 6.17e-03  3.15e-10     0s
+  48*  1.83808789e+15  7.97638521e+15  4.80e-09 2.02e+00  4.32e-11     0s
+  49*  1.11974139e+17  5.61231387e+18  7.86e-08 1.86e+01  5.89e-12     0s
+  50*  6.90209749e+18  5.66494435e+18  4.19e-06 8.54e+01  1.53e-11     0s
+  51*  7.97603046e+18  7.13228897e+18  6.22e-06 6.31e+01  1.42e-11     0s
+  52*  7.89055592e+18  8.35602385e+18  9.46e-06 1.45e+01  1.37e-11     0s
+  53*  1.28572019e+19  2.89361329e+19  9.06e-06 6.33e+01  2.73e-11     0s
+  54*  1.23810170e+19  2.35595649e+19  2.79e-06 2.94e+02  2.19e-11     0s
+  55*  1.78658331e+19  4.01791560e+19  9.42e-06 3.12e+02  2.43e-11     0s
+  56*  2.07763320e+19  3.51134506e+19  4.49e-05 3.36e+02  3.27e-11     0s
+  57*  1.60465076e+19  2.75111948e+19  4.38e-05 4.28e+02  3.54e-11     0s
+  58*  1.21137534e+19  1.28261413e+19  5.84e-05 7.55e+01  6.05e-12     0s
+  59*  6.93842392e+18  1.09527112e+19  4.70e-05 4.75e+02  7.72e-12     0s
+  60*  7.65433239e+17  2.89554741e+18  2.58e-04 8.22e+02  4.57e-11     0s
+  61*  7.78736685e+17 -5.37460208e+18  1.57e-03 1.85e+02  1.93e-10     0s
+  62*  1.18168490e+18 -3.28561862e+18  1.62e-04 6.96e+01  2.21e-11     0s
+  63*  1.23267391e+19 -2.26245694e+18  1.33e-05 8.96e+00  6.11e-12     0s
+  64*  1.79611958e+19  1.06100872e+19  1.56e-03 9.09e+00  1.91e-12     0s
+  65*  1.96712363e+19  1.09745352e+19  1.56e-03 5.08e+00  9.45e-12     0s
+  66*  1.84359313e+19  1.29371061e+19  1.79e-03 3.50e+00  1.36e-11     0s
+  67*  1.51649482e+19  1.13157453e+20  1.90e-03 5.06e+01  1.75e-10     0s
+  68*  5.37071753e+18  3.77840421e+18  8.79e-04 7.84e+01  6.17e-11     0s
+  69*  1.21207644e+19  4.74600470e+18  1.28e-03 6.83e+01  1.75e-10     0s
+  70*  1.06806414e+19  2.77848251e+18  4.03e-03 1.94e+01  1.24e-09     0s
+  71*  2.58969918e+18 -2.08072306e+19  2.88e-03 4.55e+01  3.47e-09     0s
+  72*  2.84447516e+18 -1.22655163e+19  1.09e-03 2.87e+01  1.33e-09     0s
+  73*  2.89268842e+19  1.21632311e+20  1.54e-05 1.67e+02  1.87e-10     0s
+  74*  7.25602532e+20  1.23113842e+20  3.71e-03 1.02e+02  8.26e-09     0s
+  75*  1.34019864e+21  7.44041309e+20  2.39e-03 6.46e+00  2.56e-08     0s
+  76*  9.40557381e+20  9.76611194e+20  3.00e-02 2.18e+03  1.87e-07     0s
+  77*  7.73638019e+20  9.52027385e+20  3.88e-01 1.93e+04  2.02e-05     0s
+  78*  6.75456345e+20  8.35128740e+20  3.76e-01 4.27e+04  2.19e-05     0s
+  79*  3.11379911e+20  6.84482034e+20  1.40e+00 2.44e+05  3.22e-04     0s
+  80*  2.40421515e+20  5.02852530e+20  1.19e+00 3.05e+05  3.08e-04     0s
+  81*  2.03722447e+20  1.73380644e+20  1.20e+00 4.75e+04  4.05e-04     0s
+  82*  1.49790157e+20  1.49299691e+20  1.80e+00 1.31e+05  5.44e-04     0s
+  83*  1.14846695e+20  1.31784454e+20  2.96e+00 2.23e+05  7.56e-04     0s
+  84*  2.36178539e+19  8.84372054e+19  3.30e+00 4.02e+05  1.65e-03     0s
+  85*  1.36371518e+19  6.42912502e+19  1.29e+01 9.37e+05  1.07e-02     0s
+  86*  2.81989557e+19  2.17538298e+19  2.82e-01 6.26e+04  8.09e-03     0s
+  87*  3.48706728e+19  2.21838522e+19  8.01e-01 3.35e+05  1.05e-02     0s
+  88*  2.76617191e+19  2.06503123e+19  1.34e+00 3.31e+05  3.42e-03     0s
+  89*  2.37778923e+19  4.81775733e+19  4.51e+00 2.55e+05  1.21e-02     0s
+  90*  1.09903361e+19  7.74329081e+19  2.98e+00 7.02e+05  9.68e-02     0s
+  91*  3.54506312e+19  7.74005887e+19  7.77e-01 1.58e+06  1.94e-01     0s
+  92*  3.95042484e+19  1.12699016e+20  2.39e+00 7.41e+05  1.82e-01     0s
+  93*  5.85081053e+19  1.10539841e+20  4.06e+00 2.14e+06  3.31e-01     0s
+  94*  1.04690601e+20  1.19700481e+20  5.76e+00 1.79e+06  2.76e-01     0s
+  95*  1.06537530e+20 -8.27045286e+19  1.86e+01 8.76e+04  1.03e-01     0s
+  96*  8.90856337e+19  5.87071095e+19  9.81e+00 1.20e+05  1.05e-02     0s
+  97*  6.32468858e+19  5.56565211e+19  1.40e+01 1.40e+05  2.16e-02     0s
+  98*  6.13946512e+19  4.56290610e+19  1.40e+01 6.71e+08  1.29e-02     0s
+  99*  5.98034915e+19  4.55941298e+19  5.06e+00 6.71e+08  3.67e-02     0s
+ 100*  5.45346940e+19  4.06685577e+19  1.21e+01 2.66e+05  1.06e-02     0s
+ 101*  5.43124757e+19  2.97979726e+19  1.37e+01 2.37e+07  1.40e-01     0s
+ 102*  5.32989595e+19  2.62657372e+19  1.26e+01 1.59e+06  1.83e-02     0s
+ 103*  5.35727329e+19  4.19128731e+19  1.26e+01 1.41e+08  5.05e-01     0s
+ 104*  5.30352499e+19  4.18837428e+19  1.26e+01 8.02e+07  2.05e+00     0s
+ 105*  5.23866690e+19  4.16630282e+19  1.26e+01 4.39e+07  2.31e+00     0s
+ 106*  5.30475712e+19  4.23447636e+19  1.26e+01 7.11e+07  2.04e+00     0s
+ 107*  5.35826511e+19  4.32577450e+19  1.26e+01 1.42e+08  2.23e+00     0s
+ 108*  5.37989130e+19  4.35025264e+19  1.26e+01 2.34e+08  2.02e+00     0s
+ 109*  5.38188085e+19  4.35185875e+19  1.26e+01 3.49e+08  1.68e+00     0s
+ 110*  5.37485416e+19  4.34888498e+19  1.26e+01 1.97e+08  1.72e+00     0s
+ 111*  5.39054592e+19  4.36815986e+19  1.26e+01 3.32e+08  1.62e+00     0s
+ 112*  5.38388900e+19  4.36815986e+19  1.26e+01 3.32e+08  2.44e+00     0s
+ 113*  5.37864068e+19  4.36212815e+19  1.26e+01 1.85e+08  1.78e+00     0s
+ 114*  5.38192508e+19  4.36378255e+19  1.26e+01 2.40e+08  1.29e+00     0s
+ 115*  5.39504723e+19  4.41748911e+19  1.26e+01 1.36e+08  8.00e-01     0s
+ 116*  5.38814653e+19  4.41510339e+19  1.26e+01 7.61e+07  8.98e-01     0s
+ 117*  5.34923934e+19  4.39736525e+19  1.26e+01 4.17e+07  8.99e-01     0s
+ 118*  5.33967633e+19  4.38435000e+19  1.26e+01 2.23e+07  6.28e-01     0s
+ 119*  5.42088317e+19  7.99140273e+19  1.27e+01 6.22e+08  8.98e+00     0s
+ 120*  5.42313262e+19  8.20705336e+19  1.26e+01 1.55e+10  1.23e+02     0s
+
+Barrier performed 120 iterations in 0.21 seconds
+Numerical trouble encountered
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OutputFlag to 1
+   Prev: 0  Min: 0  Max: 1  Default: 1
+Optimize a model with 2 rows, 10 columns and 10 nonzeros
+Model has 5 quadratic objective terms
+Model has 1 quadratic constraint
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 9e+04]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.02s
+Presolved: 1 rows, 5 columns, 5 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 1.000e+00
+ Factor Ops : 1.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  3.11e+05     0s
+   1   8.60327366e+04  8.40121158e+04  2.13e+01 2.43e-13  1.28e+03     0s
+   2   8.40400927e+04  8.40378500e+04  2.29e-02 8.36e-14  1.39e+00     0s
+   3   8.40378526e+04  8.40378500e+04  2.50e-05 1.32e-13  1.53e-03     0s
+   4   8.40378500e+04  8.40378500e+04  2.74e-08 7.95e-14  1.69e-06     0s
+   5   8.40378500e+04  8.40378500e+04  2.74e-11 2.71e-13  1.69e-09     0s
+
+Barrier solved model in 5 iterations and 0.06 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 3 rows, 15 columns and 15 nonzeros
+Model has 5 quadratic objective terms
+Model has 2 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 9e+04]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.02s
+Presolved: 2 rows, 10 columns, 10 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 2.000e+00
+ Factor Ops : 2.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  2.85e+05     0s
+   1   8.91847983e+04  8.39573998e+04  3.38e+01 1.83e-13  1.99e+03     0s
+   2   8.40434083e+04  8.40378499e+04  3.68e-02 0.00e+00  2.16e+00     0s
+   3   8.40378560e+04  8.40378500e+04  3.92e-05 7.01e-14  2.31e-03     0s
+   4   8.40378500e+04  8.40378500e+04  3.92e-08 6.44e-14  2.31e-06     0s
+   5   8.40378500e+04  8.40378500e+04  3.92e-11 3.66e-14  2.31e-09     0s
+
+Barrier solved model in 5 iterations and 0.03 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 4 rows, 20 columns and 20 nonzeros
+Model has 5 quadratic objective terms
+Model has 3 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 9e+04]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.01s
+Presolved: 3 rows, 15 columns, 15 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 3.000e+00
+ Factor Ops : 3.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  2.75e+05     0s
+   1   9.14778391e+04  8.38709307e+04  5.06e+01 2.54e-13  2.83e+03     0s
+   2   8.40452661e+04  8.40378498e+04  5.15e-02 1.12e-13  2.88e+00     0s
+   3   8.40378579e+04  8.40378500e+04  5.46e-05 3.30e-14  3.05e-03     0s
+   4   8.40378500e+04  8.40378500e+04  5.46e-08 8.45e-15  3.05e-06     0s
+   5   8.40378500e+04  8.40378500e+04  5.46e-11 5.55e-14  3.05e-09     0s
+
+Barrier solved model in 5 iterations and 0.05 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 5 rows, 25 columns and 25 nonzeros
+Model has 5 quadratic objective terms
+Model has 4 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 9e+04]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.02s
+Presolved: 4 rows, 20 columns, 20 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 4.000e+00
+ Factor Ops : 4.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  2.69e+05     0s
+   1   9.26521541e+04  8.38136468e+04  5.91e+01 1.85e-13  3.22e+03     0s
+   2   8.40465343e+04  8.40378498e+04  6.10e-02 8.07e-14  3.32e+00     0s
+   3   8.40378593e+04  8.40378500e+04  6.46e-05 1.30e-13  3.52e-03     0s
+   4   8.40378500e+04  8.40378500e+04  6.46e-08 0.00e+00  3.52e-06     0s
+   5   8.40378500e+04  8.40378500e+04  6.46e-11 3.14e-14  3.52e-09     0s
+
+Barrier solved model in 5 iterations and 0.04 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 6 rows, 30 columns and 30 nonzeros
+Model has 5 quadratic objective terms
+Model has 5 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 4e+02]
+  QRHS range       [9e+04, 1e+05]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.01s
+Presolved: 5 rows, 25 columns, 25 nonzeros
+Presolved model has 5 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 5.000e+00
+ Factor Ops : 5.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84484535e+06 -1.10158715e+06  5.00e+03 0.00e+00  2.65e+05     0s
+   1   9.33642530e+04  8.37747330e+04  6.43e+01 3.31e-13  3.44e+03     0s
+   2   8.40473132e+04  8.40378497e+04  6.69e-02 4.07e-14  3.58e+00     0s
+   3   8.40378601e+04  8.40378500e+04  7.08e-05 1.10e-13  3.80e-03     0s
+   4   8.40378500e+04  8.40378500e+04  7.08e-08 1.56e-13  3.80e-06     0s
+   5   8.40378500e+04  8.40378500e+04  7.08e-11 2.79e-14  3.80e-09     0s
+
+Barrier solved model in 5 iterations and 0.03 seconds
+Optimal objective 8.40378500e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 7 rows, 35 columns and 35 nonzeros
+Model has 5 quadratic objective terms
+Model has 6 quadratic constraints
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 5e+00]
+  QLMatrix range   [2e+00, 7e+00]
+  Objective range  [2e+01, 3e+01]
+  QObjective range [6e+00, 8e+00]
+  Bounds range     [2e+01, 3e+02]
+  RHS range        [3e+02, 5e+02]
+  QRHS range       [9e+04, 1e+05]
+Presolve removed 1 rows and 5 columns
+Presolve time: 0.02s
+Presolved: 24 rows, 39 columns, 60 nonzeros
+Presolved model has 2 second-order cone constraints
+Ordering time: 0.00s
+
+Barrier statistics:
+ Dense cols : 1
+ AA' NZ     : 8.000e+01
+ Factor NZ  : 1.970e+02
+ Factor Ops : 2.479e+03 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0  -3.55455035e+04 -3.55455035e+04  1.86e+05 1.72e+00  3.73e+04     0s
+   1  -5.35023966e+03  7.84460160e+03  2.49e+04 4.82e-02  4.71e+03     0s
+   2   7.90398373e+03  6.61437537e+03  2.39e+03 5.30e-08  4.76e+02     0s
+   3   1.02909265e+04  8.41001439e+03  6.26e+02 1.29e-13  1.43e+02     0s
+   4   1.37622267e+04  1.18399669e+04  2.32e+02 4.56e-13  7.95e+01     0s
+   5   1.39768952e+04  1.48489948e+04  1.65e+02 3.12e-12  3.98e+01     0s
+   6   1.72274405e+04  1.81398212e+04  1.01e+02 2.52e-11  4.13e+01     0s
+   7   1.81008499e+04  2.15150457e+04  8.33e+01 1.70e-10  2.66e+01     0s
+   8   2.03689512e+04  2.65489471e+04  6.80e+01 4.77e-10  2.43e+01     0s
+   9   2.65721126e+04  3.96034762e+04  4.10e+01 1.05e-08  2.15e+01     0s
+  10   3.55963494e+04  4.42116525e+04  2.87e+01 3.07e-09  6.53e+01     0s
+  11   3.63262612e+04  4.58089179e+04  2.64e+01 1.11e-08  5.71e+01     0s
+  12   4.03539159e+04  5.43927476e+04  2.01e+01 4.82e-08  2.88e+01     0s
+  13   4.44498718e+04  5.76410761e+04  1.71e+01 6.24e-07  9.50e+01     0s
+  14   6.84293255e+04  8.66399939e+04  9.27e+00 4.81e-07  8.38e+01     0s
+  15   7.53967679e+04  9.60178224e+04  7.87e+00 2.99e-06  1.24e+02     0s
+  16   8.61666099e+04  1.09356348e+05  6.44e+00 1.48e-06  1.49e+02     0s
+  17   9.20995816e+04  1.20750955e+05  5.65e+00 1.92e-06  1.43e+02     0s
+  18   1.03027421e+05  1.59116011e+05  4.77e+00 6.30e-05  4.63e+02     0s
+  19   1.05708226e+05  1.64524033e+05  4.56e+00 8.48e-05  4.60e+02     0s
+  20   1.13824087e+05  1.82047102e+05  3.86e+00 6.92e-04  5.27e+02     0s
+  21   1.39765215e+05  1.88527930e+05  2.69e+00 9.01e-03  6.05e+02     0s
+  22   1.42235695e+05  2.24340659e+05  2.56e+00 5.42e-03  5.51e+02     0s
+  23   1.46507892e+05  2.49199573e+05  2.48e+00 1.63e-03  5.62e+02     0s
+  24   1.51311250e+05  4.72750203e+05  2.33e+00 2.19e-02  6.95e+02     0s
+  25   1.53020784e+05  5.95367501e+05  2.30e+00 2.16e-02  6.75e+02     0s
+  26   1.55073232e+05  1.19606606e+06  2.26e+00 2.10e-02  6.18e+02     0s
+  27   1.56715195e+05  2.07803186e+06  2.25e+00 2.09e-02  5.94e+02     0s
+  28   1.56774830e+05  1.61353009e+08  2.25e+00 1.61e-02  5.98e+03     0s
+  29   1.57606231e+05  2.29005095e+09  2.24e+00 3.94e-03  1.82e+04     0s
+  30   1.33988588e+05  5.06150000e+02  4.36e+05 1.00e+03  4.38e+07     0s
+  31   1.61229993e+04  9.53486382e+06  2.07e+04 2.76e+02  1.66e+06     0s
+  32   2.82026837e+04 -4.65359614e+04  1.14e+03 1.72e+01  8.58e+04     0s
+  33   1.84850875e+04  9.75312452e+03  1.13e+02 1.88e+00  4.65e+03     0s
+  34   3.46934215e+04  2.01338733e+04  3.26e+01 3.77e-01  1.56e+03     0s
+  35   6.57030814e+04  4.67222744e+04  1.06e+01 5.71e-07  9.77e+02     0s
+  36   1.40864756e+05  7.38389448e+04  8.96e+00 5.83e-07  2.53e+03     0s
+  37   1.11421923e+05  1.01757874e+05  3.13e+00 1.05e-06  8.93e+02     0s
+  38   1.30205190e+05  1.51369955e+05  2.26e+00 2.59e-05  8.30e+02     0s
+  39   1.41385335e+05  1.66290216e+05  1.55e+00 1.02e-04  7.29e+02     0s
+  40   1.69681584e+05  2.13220694e+05  1.22e+00 3.64e-04  1.42e+03     0s
+  41*  2.44206792e+05  3.94054188e+05  1.70e-02 1.78e-05  2.14e-01     0s
+  42*  5.82040501e+05  3.32137673e+06  2.40e-03 1.52e-05  3.39e-02     0s
+  43*  1.16724241e+08  8.53794516e+08  1.67e-05 7.14e-06  2.92e-04     0s
+  44*  1.09933616e+10  8.32025276e+09  2.26e-07 1.38e-06  1.71e-06     0s
+  45*  1.00982230e+10  2.55723538e+11  6.81e-08 7.05e-05  8.30e-07     0s
+  46*  3.90833520e+11  1.89503372e+12  3.42e-09 7.00e-04  3.83e-08     0s
+  47*  1.07928164e+14  1.73092316e+15  2.05e-11 6.17e-03  3.15e-10     0s
+  48*  1.83808789e+15  7.97638521e+15  4.80e-09 2.02e+00  4.32e-11     0s
+  49*  1.11974139e+17  5.61231387e+18  7.86e-08 1.86e+01  5.89e-12     0s
+  50*  6.90209749e+18  5.66494435e+18  4.19e-06 8.54e+01  1.53e-11     0s
+  51*  7.97603046e+18  7.13228897e+18  6.22e-06 6.31e+01  1.42e-11     0s
+  52*  7.89055592e+18  8.35602385e+18  9.46e-06 1.45e+01  1.37e-11     0s
+  53*  1.28572019e+19  2.89361329e+19  9.06e-06 6.33e+01  2.73e-11     0s
+  54*  1.23810170e+19  2.35595649e+19  2.79e-06 2.94e+02  2.19e-11     0s
+  55*  1.78658331e+19  4.01791560e+19  9.42e-06 3.12e+02  2.43e-11     0s
+  56*  2.07763320e+19  3.51134506e+19  4.49e-05 3.36e+02  3.27e-11     0s
+  57*  1.60465076e+19  2.75111948e+19  4.38e-05 4.28e+02  3.54e-11     0s
+  58*  1.21137534e+19  1.28261413e+19  5.84e-05 7.55e+01  6.05e-12     0s
+  59*  6.93842392e+18  1.09527112e+19  4.70e-05 4.75e+02  7.72e-12     0s
+  60*  7.65433239e+17  2.89554741e+18  2.58e-04 8.22e+02  4.57e-11     0s
+  61*  7.78736685e+17 -5.37460208e+18  1.57e-03 1.85e+02  1.93e-10     0s
+  62*  1.18168490e+18 -3.28561862e+18  1.62e-04 6.96e+01  2.21e-11     0s
+  63*  1.23267391e+19 -2.26245694e+18  1.33e-05 8.96e+00  6.11e-12     0s
+  64*  1.79611958e+19  1.06100872e+19  1.56e-03 9.09e+00  1.91e-12     0s
+  65*  1.96712363e+19  1.09745352e+19  1.56e-03 5.08e+00  9.45e-12     0s
+  66*  1.84359313e+19  1.29371061e+19  1.79e-03 3.50e+00  1.36e-11     0s
+  67*  1.51649482e+19  1.13157453e+20  1.90e-03 5.06e+01  1.75e-10     0s
+  68*  5.37071753e+18  3.77840421e+18  8.79e-04 7.84e+01  6.17e-11     0s
+  69*  1.21207644e+19  4.74600470e+18  1.28e-03 6.83e+01  1.75e-10     0s
+  70*  1.06806414e+19  2.77848251e+18  4.03e-03 1.94e+01  1.24e-09     0s
+  71*  2.58969918e+18 -2.08072306e+19  2.88e-03 4.55e+01  3.47e-09     0s
+  72*  2.84447516e+18 -1.22655163e+19  1.09e-03 2.87e+01  1.33e-09     0s
+  73*  2.89268842e+19  1.21632311e+20  1.54e-05 1.67e+02  1.87e-10     0s
+  74*  7.25602532e+20  1.23113842e+20  3.71e-03 1.02e+02  8.26e-09     0s
+  75*  1.34019864e+21  7.44041309e+20  2.39e-03 6.46e+00  2.56e-08     0s
+  76*  9.40557381e+20  9.76611194e+20  3.00e-02 2.18e+03  1.87e-07     0s
+  77*  7.73638019e+20  9.52027385e+20  3.88e-01 1.93e+04  2.02e-05     0s
+  78*  6.75456345e+20  8.35128740e+20  3.76e-01 4.27e+04  2.19e-05     0s
+  79*  3.11379911e+20  6.84482034e+20  1.40e+00 2.44e+05  3.22e-04     0s
+  80*  2.40421515e+20  5.02852530e+20  1.19e+00 3.05e+05  3.08e-04     0s
+  81*  2.03722447e+20  1.73380644e+20  1.20e+00 4.75e+04  4.05e-04     0s
+  82*  1.49790157e+20  1.49299691e+20  1.80e+00 1.31e+05  5.44e-04     0s
+  83*  1.14846695e+20  1.31784454e+20  2.96e+00 2.23e+05  7.56e-04     0s
+  84*  2.36178539e+19  8.84372054e+19  3.30e+00 4.02e+05  1.65e-03     0s
+  85*  1.36371518e+19  6.42912502e+19  1.29e+01 9.37e+05  1.07e-02     0s
+  86*  2.81989557e+19  2.17538298e+19  2.82e-01 6.26e+04  8.09e-03     0s
+  87*  3.48706728e+19  2.21838522e+19  8.01e-01 3.35e+05  1.05e-02     0s
+  88*  2.76617191e+19  2.06503123e+19  1.34e+00 3.31e+05  3.42e-03     0s
+  89*  2.37778923e+19  4.81775733e+19  4.51e+00 2.55e+05  1.21e-02     0s
+  90*  1.09903361e+19  7.74329081e+19  2.98e+00 7.02e+05  9.68e-02     0s
+  91*  3.54506312e+19  7.74005887e+19  7.77e-01 1.58e+06  1.94e-01     0s
+  92*  3.95042484e+19  1.12699016e+20  2.39e+00 7.41e+05  1.82e-01     0s
+  93*  5.85081053e+19  1.10539841e+20  4.06e+00 2.14e+06  3.31e-01     0s
+  94*  1.04690601e+20  1.19700481e+20  5.76e+00 1.79e+06  2.76e-01     0s
+  95*  1.06537530e+20 -8.27045286e+19  1.86e+01 8.76e+04  1.03e-01     0s
+  96*  8.90856337e+19  5.87071095e+19  9.81e+00 1.20e+05  1.05e-02     0s
+  97*  6.32468858e+19  5.56565211e+19  1.40e+01 1.40e+05  2.16e-02     0s
+  98*  6.13946512e+19  4.56290610e+19  1.40e+01 6.71e+08  1.29e-02     0s
+  99*  5.98034915e+19  4.55941298e+19  5.06e+00 6.71e+08  3.67e-02     0s
+ 100*  5.45346940e+19  4.06685577e+19  1.21e+01 2.66e+05  1.06e-02     0s
+ 101*  5.43124757e+19  2.97979726e+19  1.37e+01 2.37e+07  1.40e-01     0s
+ 102*  5.32989595e+19  2.62657372e+19  1.26e+01 1.59e+06  1.83e-02     0s
+ 103*  5.35727329e+19  4.19128731e+19  1.26e+01 1.41e+08  5.05e-01     0s
+ 104*  5.30352499e+19  4.18837428e+19  1.26e+01 8.02e+07  2.05e+00     0s
+ 105*  5.23866690e+19  4.16630282e+19  1.26e+01 4.39e+07  2.31e+00     0s
+ 106*  5.30475712e+19  4.23447636e+19  1.26e+01 7.11e+07  2.04e+00     0s
+ 107*  5.35826511e+19  4.32577450e+19  1.26e+01 1.42e+08  2.23e+00     0s
+ 108*  5.37989130e+19  4.35025264e+19  1.26e+01 2.34e+08  2.02e+00     0s
+ 109*  5.38188085e+19  4.35185875e+19  1.26e+01 3.49e+08  1.68e+00     0s
+ 110*  5.37485416e+19  4.34888498e+19  1.26e+01 1.97e+08  1.72e+00     0s
+ 111*  5.39054592e+19  4.36815986e+19  1.26e+01 3.32e+08  1.62e+00     0s
+ 112*  5.38388900e+19  4.36815986e+19  1.26e+01 3.32e+08  2.44e+00     0s
+ 113*  5.37864068e+19  4.36212815e+19  1.26e+01 1.85e+08  1.78e+00     0s
+ 114*  5.38192508e+19  4.36378255e+19  1.26e+01 2.40e+08  1.29e+00     0s
+ 115*  5.39504723e+19  4.41748911e+19  1.26e+01 1.36e+08  8.00e-01     0s
+ 116*  5.38814653e+19  4.41510339e+19  1.26e+01 7.61e+07  8.98e-01     0s
+ 117*  5.34923934e+19  4.39736525e+19  1.26e+01 4.17e+07  8.99e-01     0s
+ 118*  5.33967633e+19  4.38435000e+19  1.26e+01 2.23e+07  6.28e-01     0s
+ 119*  5.42088317e+19  7.99140273e+19  1.27e+01 6.22e+08  8.98e+00     0s
+ 120*  5.42313262e+19  8.20705336e+19  1.26e+01 1.55e+10  1.23e+02     0s
+
+Barrier performed 120 iterations in 0.19 seconds
+Numerical trouble encountered
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.0.1 (win64, Python) logging started 08/24/18 16:58:24
+
