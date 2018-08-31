@@ -1,14 +1,14 @@
 \ Model Dynamic Economic Dispatch_copy
 \ LP format - for model browsing. Use MPS format to capture full model detail.
 Minimize
-  + 342 Constant
+  + 1026 Constant
 Subject To
- DemandConst: Power[Gen1] + Power[Gen2] + Power[Gen3] + Power[Gen4] = 510
- DemandConst: Power[Gen1] + Power[Gen2] + Power[Gen3] + Power[Gen4] = 761
+ R17: - C1 - C4 - C7 - C10 >= -840
+ DemandConst[1]: C1 + C4 + C7 + C10 >= 850
 Bounds
- Power[Gen1] free
- Power[Gen2] free
- Power[Gen3] free
- Power[Gen4] free
+ C1 free
+ C4 free
+ C7 free
+ C10 free
  Constant = 1
 End
