@@ -1,0 +1,14 @@
+\ Model 2 bus OPF_copy
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+Minimize
+  + 198.87 Constant
+Subject To
+ lineFlow: Gen[1] + line[0] = 4
+ BusAngle: line[0] - 5 PhaseAngle[0] + 5 PhaseAngle[1] = 0
+ DeltaConstr: PhaseAngle[0] = 0
+Bounds
+ -infinity <= Gen[1] <= 2.84
+ line[0] free
+ PhaseAngle[0] free
+ Constant = 1
+End
