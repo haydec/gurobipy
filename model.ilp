@@ -3,20 +3,8 @@
 Minimize
   + 949 Constant
 Subject To
- BusAngle[0,1]: - 1000 PhaseAngle[0] + 1000 PhaseAngle[1] + line[0,1] = 0
- BusAngle[0,2]: - 800 PhaseAngle[0] + 800 PhaseAngle[2] + line[0,2] = 0
- BusAngle[1,2]: - 500 PhaseAngle[1] + 500 PhaseAngle[2] + line[1,2] = 0
- lineFlow[0,1]: Gen[0] + line[0,1] = 200
- lineFlow[0,2]: Gen[0] + line[0,2] = 200
- lineFlow[1,2]: Gen[1] + line[1,2] = 550
+ NetBus[1]: Pgen[1] - PF[1,0] - PF[1,1] - PF[1,2] = 550
 Bounds
- Gen[0] >= 1.5
- -infinity <= Gen[1] <= 4
- PhaseAngle[0] free
- PhaseAngle[1] free
- PhaseAngle[2] free
- line[0,1] free
- line[0,2] free
- line[1,2] free
+ -infinity <= Pgen[1] <= 400
  Constant = 1
 End

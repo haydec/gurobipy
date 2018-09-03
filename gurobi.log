@@ -333,3 +333,1325 @@ Iteration    Objective       Primal Inf.    Dual Inf.      Time
 
 IIS computed: 6 constraints and 2 bounds
 IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 10:02:11
+
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 10:15:54
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 9 columns and 24 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [2e+02, 6e+02]
+Presolve removed 8 rows and 7 columns
+Presolve time: 0.03s
+
+Barrier solved model in 0 iterations and 0.04 seconds
+Model is infeasible
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.4900000e+02   2.058706e+03   0.000000e+00      0s
+
+IIS computed: 6 constraints and 2 bounds
+IIS runtime: 0.02 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 10:27:02
+
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 10:27:19
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 6 rows, 9 columns and 15 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [2e+02, 6e+02]
+Presolve removed 5 rows and 7 columns
+Presolve time: 0.04s
+
+Barrier solved model in 0 iterations and 0.04 seconds
+Model is infeasible
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.4900000e+02   4.705310e+02   0.000000e+00      0s
+
+IIS computed: 6 constraints and 2 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 10:27:35
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 6 rows, 9 columns and 15 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [2e+02, 6e+02]
+Presolve removed 5 rows and 7 columns
+Presolve time: 0.02s
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Model is infeasible
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.4900000e+02   4.705310e+02   0.000000e+00      0s
+
+IIS computed: 6 constraints and 2 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 10:28:22
+
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 10:28:36
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 6 rows, 9 columns and 17 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [2e+02, 6e+02]
+Presolve removed 5 rows and 8 columns
+Presolve time: 0.01s
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Model is infeasible
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.4900000e+02   4.705310e+02   0.000000e+00      0s
+
+IIS computed: 5 constraints and 3 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 10:28:55
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 6 rows, 9 columns and 17 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [2e+02, 6e+02]
+Presolve removed 5 rows and 8 columns
+Presolve time: 0.05s
+
+Barrier solved model in 0 iterations and 0.06 seconds
+Model is infeasible
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.4900000e+02   4.705310e+02   0.000000e+00      0s
+
+IIS computed: 5 constraints and 3 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 10:30:54
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 6 rows, 9 columns and 16 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [2e+02, 6e+02]
+Presolve removed 0 rows and 2 columns
+Presolve time: 0.01s
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 2 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 10:31:10
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 6 rows, 9 columns and 16 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [2e+02, 6e+02]
+Presolve removed 0 rows and 2 columns
+Presolve time: 0.02s
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 2 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 10:31:52
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 6 rows, 9 columns and 18 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [2e+02, 6e+02]
+Presolve removed 5 rows and 8 columns
+Presolve time: 0.01s
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Model is infeasible
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.4900000e+02   4.767810e+02   0.000000e+00      0s
+
+IIS computed: 5 constraints and 3 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 11:38:23
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 6 rows, 9 columns and 16 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [2e+02, 6e+02]
+Presolve removed 0 rows and 2 columns
+Presolve time: 0.04s
+
+Barrier solved model in 0 iterations and 0.05 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 2 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 11:42:06
+
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 11:42:33
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 6 rows, 9 columns and 16 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [2e+02, 6e+02]
+Presolve removed 0 rows and 2 columns
+Presolve time: 0.03s
+
+Barrier solved model in 0 iterations and 0.03 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 2 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 11:42:53
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 6 rows, 9 columns and 16 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [2e+02, 6e+02]
+Presolve removed 0 rows and 2 columns
+Presolve time: 0.04s
+
+Barrier solved model in 0 iterations and 0.05 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 2 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 11:46:25
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 6 rows, 9 columns and 16 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [2e+02, 6e+02]
+Presolve removed 0 rows and 2 columns
+Presolve time: 0.04s
+
+Barrier solved model in 0 iterations and 0.05 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 2 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 11:46:38
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 6 rows, 9 columns and 16 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [2e+02, 6e+02]
+Presolve removed 0 rows and 2 columns
+Presolve time: 0.03s
+
+Barrier solved model in 0 iterations and 0.04 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 2 bounds
+IIS runtime: 0.01 seconds
+Optimize a model with 16 rows, 12 columns and 36 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 8e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+01, 1e+02]
+Presolve removed 16 rows and 12 columns
+Presolve time: 0.04s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    5.5000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.05 seconds
+Optimal objective  5.500000000e+03
+Warning: variable name "flow[Pencils,Detroit,New York]" has a space
+Warning: constraint name "cap[Detroit,New York]" has a space
+Warning: to let Gurobi read it back, use rlp format
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 13:42:07
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 6 rows, 9 columns and 18 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [2e+02, 6e+02]
+Presolve removed 0 rows and 2 columns
+Presolve time: 0.05s
+
+Barrier solved model in 0 iterations and 0.06 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.02 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 13:42:17
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 6 rows, 9 columns and 18 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [2e+02, 6e+02]
+Presolve removed 0 rows and 2 columns
+Presolve time: 0.04s
+
+Barrier solved model in 0 iterations and 0.04 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 13:53:37
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 6 rows, 9 columns and 18 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [2e+02, 6e+02]
+Presolve removed 0 rows and 2 columns
+Presolve time: 0.02s
+
+Barrier solved model in 0 iterations and 0.03 seconds
+Model is infeasible
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.4900000e+02   4.705310e+02   0.000000e+00      0s
+
+IIS computed: 2 constraints and 2 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 13:53:56
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 6 rows, 9 columns and 18 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [2e+02, 6e+02]
+Presolve removed 0 rows and 2 columns
+Presolve time: 0.04s
+
+Barrier solved model in 0 iterations and 0.04 seconds
+Model is infeasible
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.4900000e+02   4.705310e+02   0.000000e+00      0s
+
+IIS computed: 2 constraints and 2 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 13:55:17
+
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 14:27:15
+
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 14:27:47
+
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 14:29:47
+
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:17:52
+
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:18:23
+
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:19:07
+
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:19:27
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 12 rows, 12 columns and 48 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+
+Barrier solved model in 0 iterations and 0.01 seconds
+Model is infeasible
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.4900000e+02   5.685310e+02   0.000000e+00      0s
+
+IIS computed: 3 constraints and 3 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:20:07
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 12 rows, 12 columns and 48 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+
+Barrier solved model in 0 iterations and 0.03 seconds
+Model is infeasible
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.4900000e+02   5.685310e+02   0.000000e+00      0s
+
+IIS computed: 3 constraints and 3 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:20:21
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 12 rows, 12 columns and 48 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.04s
+
+Barrier solved model in 0 iterations and 0.04 seconds
+Model is infeasible
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.4900000e+02   5.685310e+02   0.000000e+00      0s
+
+IIS computed: 3 constraints and 3 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:21:19
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 12 rows, 12 columns and 48 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.03s
+
+Barrier solved model in 0 iterations and 0.03 seconds
+Model is infeasible
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.4900000e+02   5.685310e+02   0.000000e+00      0s
+
+IIS computed: 3 constraints and 3 bounds
+IIS runtime: 0.02 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:23:17
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 12 rows, 12 columns and 36 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:23:27
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 12 rows, 12 columns and 36 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.04s
+
+Barrier solved model in 0 iterations and 0.05 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:33:20
+
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:37:39
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 12 rows, 12 columns and 36 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.03s
+
+Barrier solved model in 0 iterations and 0.03 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:49:43
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.04s
+
+Barrier solved model in 0 iterations and 0.07 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:51:43
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.05s
+
+Barrier solved model in 0 iterations and 0.05 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.02 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:51:51
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+
+Barrier solved model in 0 iterations and 0.04 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:52:34
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [1e+00, 6e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:52:46
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [1e+00, 6e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.03s
+
+Barrier solved model in 0 iterations and 0.03 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:55:22
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [1e+00, 6e+00]
+Presolve removed 9 rows and 12 columns
+Presolve time: 0.04s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.04 seconds
+Optimal objective 1.01605475e+03
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:56:45
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [1e+00, 6e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.06s
+
+Barrier solved model in 0 iterations and 0.08 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:58:59
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [1e+00, 6e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.03s
+
+Barrier solved model in 0 iterations and 0.03 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 15:59:15
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [1e+00, 6e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.04s
+
+Barrier solved model in 0 iterations and 0.04 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 16:02:12
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [5e-01, 6e+00]
+  RHS range        [1e+00, 6e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+
+Barrier solved model in 0 iterations and 0.03 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 16:11:53
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [3e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.03s
+
+Barrier solved model in 0 iterations and 0.03 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 16:13:45
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [3e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Model is infeasible
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.4900000e+02   2.120575e+03   0.000000e+00      0s
+
+IIS computed: 5 constraints and 3 bounds
+IIS runtime: 0.03 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 16:14:03
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [3e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.03s
+
+Barrier solved model in 0 iterations and 0.03 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 16:16:11
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [3e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.04s
+
+Barrier solved model in 0 iterations and 0.04 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 16:22:25
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [3e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 16:23:32
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [3e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+
+Barrier solved model in 0 iterations and 0.01 seconds
+Model is infeasible
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.4900000e+02   2.008075e+03   0.000000e+00      0s
+
+IIS computed: 5 constraints and 3 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 16:24:29
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [3e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.03s
+
+Barrier solved model in 0 iterations and 0.03 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.02 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 16:25:09
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [6e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 16:35:02
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [6e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+
+Barrier solved model in 0 iterations and 0.03 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 16:35:16
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [6e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 17:30:58
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [6e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.03s
+
+Barrier solved model in 0 iterations and 0.04 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 17:32:15
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [6e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.09s
+
+Barrier solved model in 0 iterations and 0.10 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.01 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 17:32:32
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [6e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.03s
+
+Barrier solved model in 0 iterations and 0.04 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.02 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 17:34:27
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [6e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.05s
+
+Barrier solved model in 0 iterations and 0.05 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 3 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 17:48:37
+
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 17:49:35
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 12 rows, 15 columns and 33 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [6e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 3 rows and 4 columns
+Presolve time: 0.03s
+
+Barrier solved model in 0 iterations and 0.04 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 4 bounds
+IIS runtime: 0.02 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 17:54:09
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 12 rows, 15 columns and 33 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [6e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 3 rows and 4 columns
+Presolve time: 0.02s
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 4 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 17:54:21
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 12 rows, 15 columns and 33 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [6e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 12 rows and 15 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.03 seconds
+Optimal objective 8.34503000e+03
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 17:58:29
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 12 rows, 15 columns and 33 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [6e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 3 rows and 4 columns
+Presolve time: 0.03s
+
+Barrier solved model in 0 iterations and 0.04 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 4 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 17:58:59
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 12 rows, 15 columns and 36 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [6e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 1 rows and 2 columns
+Presolve time: 0.03s
+
+Barrier solved model in 0 iterations and 0.03 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 4 bounds
+IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/03/18 18:03:15
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 12 rows, 15 columns and 33 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [6e+00, 6e+02]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 3 rows and 4 columns
+Presolve time: 0.04s
+
+Barrier solved model in 0 iterations and 0.06 seconds
+Model is infeasible
+
+IIS computed: 1 constraints and 4 bounds
+IIS runtime: 0.00 seconds
