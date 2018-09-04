@@ -1655,3 +1655,45 @@ Model is infeasible
 
 IIS computed: 1 constraints and 4 bounds
 IIS runtime: 0.00 seconds
+
+Gurobi 8.0.1 (win64, Python) logging started 09/04/18 10:34:26
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 12 rows, 15 columns and 33 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [6e+00, 1e+03]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 7 rows and 8 columns
+Presolve time: 0.04s
+Presolved: 5 rows, 7 columns, 15 nonzeros
+Presolved model has 3 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 9.000e+00
+ Factor NZ  : 1.500e+01
+ Factor Ops : 5.500e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.57973258e+06 -2.17125949e+06  2.50e+03 9.93e+02  1.07e+06     0s
+   1   8.20297369e+03 -7.59920431e+05  2.50e-03 9.93e-04  5.49e+04     0s
+   2   8.20248654e+03  3.59674720e+03  1.25e-05 4.97e-06  3.29e+02     0s
+   3   8.20529932e+03  7.74849234e+03  1.25e-11 4.97e-12  3.26e+01     0s
+   4   8.19571827e+03  8.18166007e+03  1.71e-13 1.78e-14  1.00e+00     0s
+   5   8.19436249e+03  8.19368128e+03  8.81e-12 6.28e-15  4.87e-02     0s
+   6   8.19435612e+03  8.19435545e+03  4.95e-12 8.88e-15  4.78e-05     0s
+   7   8.19435612e+03  8.19435612e+03  6.65e-12 1.24e-14  4.79e-08     0s
+   8   8.19435612e+03  8.19435612e+03  8.41e-12 7.11e-15  4.79e-11     0s
+
+Barrier solved model in 8 iterations and 0.11 seconds
+Optimal objective 8.19435612e+03
+

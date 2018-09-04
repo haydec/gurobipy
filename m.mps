@@ -32,23 +32,23 @@ COLUMNS
     Delta[2]  PowerFlow[1,2]  -500
     Delta[2]  PowerFlow[2,0]  800
     Delta[2]  PowerFlow[2,1]  500
-    PF[0,0]   PowerFlow[0,0]  -1
+    PF[0,0]   PowerFlow[0,0]  1
     PF[0,0]   NetBus[0]  -1
-    PF[0,1]   PowerFlow[0,1]  -1
+    PF[0,1]   PowerFlow[0,1]  1
     PF[0,1]   NetBus[0]  -1
-    PF[0,2]   PowerFlow[0,2]  -1
+    PF[0,2]   PowerFlow[0,2]  1
     PF[0,2]   NetBus[0]  -1
-    PF[1,0]   PowerFlow[1,0]  -1
+    PF[1,0]   PowerFlow[1,0]  1
     PF[1,0]   NetBus[1]  -1
-    PF[1,1]   PowerFlow[1,1]  -1
+    PF[1,1]   PowerFlow[1,1]  1
     PF[1,1]   NetBus[1]  -1
-    PF[1,2]   PowerFlow[1,2]  -1
+    PF[1,2]   PowerFlow[1,2]  1
     PF[1,2]   NetBus[1]  -1
-    PF[2,0]   PowerFlow[2,0]  -1
+    PF[2,0]   PowerFlow[2,0]  1
     PF[2,0]   NetBus[2]  -1
-    PF[2,1]   PowerFlow[2,1]  -1
+    PF[2,1]   PowerFlow[2,1]  1
     PF[2,1]   NetBus[2]  -1
-    PF[2,2]   PowerFlow[2,2]  -1
+    PF[2,2]   PowerFlow[2,2]  1
     PF[2,2]   NetBus[2]  -1
 RHS
     RHS1      OBJ       -949
@@ -67,6 +67,24 @@ BOUNDS
  UP BND1      Delta[1]  6
  LO BND1      Delta[2]  -6
  UP BND1      Delta[2]  6
+ LO BND1      PF[0,0]   -1000
+ UP BND1      PF[0,0]   1000
+ LO BND1      PF[0,1]   -1000
+ UP BND1      PF[0,1]   1000
+ LO BND1      PF[0,2]   -1000
+ UP BND1      PF[0,2]   1000
+ LO BND1      PF[1,0]   -1000
+ UP BND1      PF[1,0]   1000
+ LO BND1      PF[1,1]   -1000
+ UP BND1      PF[1,1]   1000
+ LO BND1      PF[1,2]   -1000
+ UP BND1      PF[1,2]   1000
+ LO BND1      PF[2,0]   -1000
+ UP BND1      PF[2,0]   1000
+ LO BND1      PF[2,1]   -1000
+ UP BND1      PF[2,1]   1000
+ LO BND1      PF[2,2]   -1000
+ UP BND1      PF[2,2]   1000
 QUADOBJ
     Pgen[0]   Pgen[0]   0.003124
     Pgen[1]   Pgen[1]   0.00388
