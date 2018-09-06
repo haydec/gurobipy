@@ -2017,3 +2017,435 @@ Iter       Primal          Dual         Primal    Dual     Compl     Time
 Barrier solved model in 6 iterations and 0.02 seconds
 Optimal objective 8.19435612e+03
 
+
+Gurobi 8.0.1 (win64, Python) logging started 09/06/18 21:49:18
+
+
+Gurobi 8.0.1 (win64, Python) logging started 09/06/18 21:50:33
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 18 rows, 24 columns and 54 nonzeros
+Model has 6 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [1e+01, 2e+03]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 16 rows and 18 columns
+Presolve time: 0.01s
+Presolved: 2 rows, 6 columns, 6 nonzeros
+Presolved model has 6 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 2.000e+00
+ Factor Ops : 2.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   3.16158482e+06 -2.60226033e+06  2.50e+03 9.93e+02  1.01e+06     0s
+   1   1.65576069e+04 -1.21974209e+05  2.50e-03 9.93e-04  1.15e+04     0s
+   2   1.65536419e+04  1.59294252e+04  6.71e-06 2.67e-06  5.20e+01     0s
+   3   1.64557077e+04  1.63960726e+04  6.71e-12 2.66e-12  4.97e+00     0s
+   4   1.64456847e+04  1.64418867e+04  7.11e-15 1.78e-15  3.16e-01     0s
+   5   1.64452578e+04  1.64450902e+04  7.11e-15 1.78e-15  1.40e-02     0s
+   6   1.64452357e+04  1.64452251e+04  0.00e+00 1.24e-14  8.82e-04     0s
+   7   1.64452355e+04  1.64452355e+04  0.00e+00 8.88e-15  1.71e-06     0s
+   8   1.64452355e+04  1.64452355e+04  0.00e+00 5.33e-15  1.71e-09     0s
+
+Barrier solved model in 8 iterations and 0.03 seconds
+Optimal objective 1.64452355e+04
+
+
+Gurobi 8.0.1 (win64, Python) logging started 09/06/18 22:24:43
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 18 rows, 24 columns and 54 nonzeros
+Model has 6 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [1e+01, 2e+03]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 16 rows and 18 columns
+Presolve time: 0.01s
+Presolved: 2 rows, 6 columns, 6 nonzeros
+Presolved model has 6 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 2.000e+00
+ Factor Ops : 2.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   3.16158482e+06 -2.60226033e+06  2.50e+03 9.93e+02  1.01e+06     0s
+   1   1.65576069e+04 -1.21974209e+05  2.50e-03 9.93e-04  1.15e+04     0s
+   2   1.65536419e+04  1.59294252e+04  6.71e-06 2.67e-06  5.20e+01     0s
+   3   1.64557077e+04  1.63960726e+04  6.71e-12 2.66e-12  4.97e+00     0s
+   4   1.64456847e+04  1.64418867e+04  7.11e-15 1.78e-15  3.16e-01     0s
+   5   1.64452578e+04  1.64450902e+04  7.11e-15 1.78e-15  1.40e-02     0s
+   6   1.64452357e+04  1.64452251e+04  0.00e+00 1.24e-14  8.82e-04     0s
+   7   1.64452355e+04  1.64452355e+04  0.00e+00 8.88e-15  1.71e-06     0s
+   8   1.64452355e+04  1.64452355e+04  0.00e+00 5.33e-15  1.71e-09     0s
+
+Barrier solved model in 8 iterations and 0.03 seconds
+Optimal objective 1.64452355e+04
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 36 rows, 48 columns and 108 nonzeros
+Model has 6 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [1e+01, 2e+03]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 34 rows and 42 columns
+Presolve time: 0.01s
+Presolved: 2 rows, 6 columns, 6 nonzeros
+Presolved model has 6 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 2.000e+00
+ Factor Ops : 2.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   3.16158482e+06 -2.60226033e+06  2.50e+03 9.93e+02  1.01e+06     0s
+   1   1.65576069e+04 -1.21974209e+05  2.50e-03 9.93e-04  1.15e+04     0s
+   2   1.65536419e+04  1.59294252e+04  6.71e-06 2.67e-06  5.20e+01     0s
+   3   1.64557077e+04  1.63960726e+04  6.71e-12 2.66e-12  4.97e+00     0s
+   4   1.64456847e+04  1.64418867e+04  7.11e-15 1.78e-15  3.16e-01     0s
+   5   1.64452578e+04  1.64450902e+04  7.11e-15 1.78e-15  1.40e-02     0s
+   6   1.64452357e+04  1.64452251e+04  0.00e+00 1.24e-14  8.82e-04     0s
+   7   1.64452355e+04  1.64452355e+04  0.00e+00 8.88e-15  1.71e-06     0s
+   8   1.64452355e+04  1.64452355e+04  0.00e+00 5.33e-15  1.71e-09     0s
+
+Barrier solved model in 8 iterations and 0.02 seconds
+Optimal objective 1.64452355e+04
+
+Warning: variables 0 and 24 have the same name "Pgen[0,0]"
+Warning: linear constraint 0 and linear constraint 18 have the same name "PowerFlow[0,1,0]"
+Warning: to let Gurobi read it back, use rlp format
+
+Gurobi 8.0.1 (win64, Python) logging started 09/06/18 22:29:52
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 18 rows, 24 columns and 54 nonzeros
+Model has 6 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [1e+01, 2e+03]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 16 rows and 18 columns
+Presolve time: 0.01s
+Presolved: 2 rows, 6 columns, 6 nonzeros
+Presolved model has 6 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 2.000e+00
+ Factor Ops : 2.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   3.16158482e+06 -2.60226033e+06  2.50e+03 9.93e+02  1.01e+06     0s
+   1   1.65576069e+04 -1.21974209e+05  2.50e-03 9.93e-04  1.15e+04     0s
+   2   1.65536419e+04  1.59294252e+04  6.71e-06 2.67e-06  5.20e+01     0s
+   3   1.64557077e+04  1.63960726e+04  6.71e-12 2.66e-12  4.97e+00     0s
+   4   1.64456847e+04  1.64418867e+04  7.11e-15 1.78e-15  3.16e-01     0s
+   5   1.64452578e+04  1.64450902e+04  7.11e-15 1.78e-15  1.40e-02     0s
+   6   1.64452357e+04  1.64452251e+04  0.00e+00 1.24e-14  8.82e-04     0s
+   7   1.64452355e+04  1.64452355e+04  0.00e+00 8.88e-15  1.71e-06     0s
+   8   1.64452355e+04  1.64452355e+04  0.00e+00 5.33e-15  1.71e-09     0s
+
+Barrier solved model in 8 iterations and 0.03 seconds
+Optimal objective 1.64452355e+04
+
+
+Gurobi 8.0.1 (win64, Python) logging started 09/06/18 22:31:29
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 18 rows, 24 columns and 54 nonzeros
+Model has 6 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [1e+01, 2e+03]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 16 rows and 18 columns
+Presolve time: 0.01s
+Presolved: 2 rows, 6 columns, 6 nonzeros
+Presolved model has 6 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 2.000e+00
+ Factor Ops : 2.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   3.15802601e+06 -2.59102091e+06  2.50e+03 9.93e+02  1.01e+06     0s
+   1   1.63988293e+04 -1.13528094e+05  2.50e-03 9.93e-04  1.08e+04     0s
+   2   1.63978724e+04  1.61674641e+04  1.79e-06 7.12e-07  1.92e+01     0s
+   3   1.63888183e+04  1.63827541e+04  5.60e-09 2.23e-09  5.05e-01     0s
+   4   1.63887122e+04  1.63886886e+04  0.00e+00 0.00e+00  1.97e-03     0s
+   5   1.63887122e+04  1.63887122e+04  0.00e+00 1.78e-15  1.97e-06     0s
+   6   1.63887122e+04  1.63887122e+04  0.00e+00 5.33e-15  1.97e-09     0s
+
+Barrier solved model in 6 iterations and 0.03 seconds
+Optimal objective 1.63887122e+04
+
+
+Gurobi 8.0.1 (win64, Python) logging started 09/06/18 22:41:22
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 18 rows, 24 columns and 54 nonzeros
+Model has 6 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [1e+01, 2e+03]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 16 rows and 18 columns
+Presolve time: 0.01s
+Presolved: 2 rows, 6 columns, 6 nonzeros
+Presolved model has 6 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 2.000e+00
+ Factor Ops : 2.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   3.15802601e+06 -2.59102091e+06  2.50e+03 9.93e+02  1.01e+06     0s
+   1   1.63988293e+04 -1.13528094e+05  2.50e-03 9.93e-04  1.08e+04     0s
+   2   1.63978724e+04  1.61674641e+04  1.79e-06 7.12e-07  1.92e+01     0s
+   3   1.63888183e+04  1.63827541e+04  5.60e-09 2.23e-09  5.05e-01     0s
+   4   1.63887122e+04  1.63886886e+04  0.00e+00 0.00e+00  1.97e-03     0s
+   5   1.63887122e+04  1.63887122e+04  0.00e+00 1.78e-15  1.97e-06     0s
+   6   1.63887122e+04  1.63887122e+04  0.00e+00 5.33e-15  1.97e-09     0s
+
+Barrier solved model in 6 iterations and 0.02 seconds
+Optimal objective 1.63887122e+04
+
+
+Gurobi 8.0.1 (win64, Python) logging started 09/06/18 22:45:19
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [6e+00, 2e+03]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 8 rows and 9 columns
+Presolve time: 0.01s
+Presolved: 1 rows, 3 columns, 3 nonzeros
+Presolved model has 3 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 1.000e+00
+ Factor Ops : 1.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.57901300e+06 -1.29551045e+06  2.50e+03 9.93e+02  1.01e+06     0s
+   1   8.19941466e+03 -5.67640472e+04  2.50e-03 9.93e-04  1.08e+04     0s
+   2   8.19893618e+03  8.08373207e+03  1.79e-06 7.12e-07  1.92e+01     0s
+   3   8.19440913e+03  8.19137703e+03  5.60e-09 2.23e-09  5.05e-01     0s
+   4   8.19435612e+03  8.19434428e+03  0.00e+00 0.00e+00  1.97e-03     0s
+   5   8.19435612e+03  8.19435611e+03  0.00e+00 1.78e-15  1.97e-06     0s
+   6   8.19435612e+03  8.19435612e+03  0.00e+00 5.33e-15  1.97e-09     0s
+
+Barrier solved model in 6 iterations and 0.02 seconds
+Optimal objective 8.19435612e+03
+
+
+Gurobi 8.0.1 (win64, Python) logging started 09/06/18 22:48:12
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 9 rows, 12 columns and 27 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [6e+00, 2e+03]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 8 rows and 9 columns
+Presolve time: 0.01s
+Presolved: 1 rows, 3 columns, 3 nonzeros
+Presolved model has 3 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 1.000e+00
+ Factor Ops : 1.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.57901300e+06 -1.29551045e+06  2.50e+03 9.93e+02  1.01e+06     0s
+   1   8.19941466e+03 -5.67640472e+04  2.50e-03 9.93e-04  1.08e+04     0s
+   2   8.19893618e+03  8.08373207e+03  1.79e-06 7.12e-07  1.92e+01     0s
+   3   8.19440913e+03  8.19137703e+03  5.60e-09 2.23e-09  5.05e-01     0s
+   4   8.19435612e+03  8.19434428e+03  0.00e+00 0.00e+00  1.97e-03     0s
+   5   8.19435612e+03  8.19435611e+03  0.00e+00 1.78e-15  1.97e-06     0s
+   6   8.19435612e+03  8.19435612e+03  0.00e+00 5.33e-15  1.97e-09     0s
+
+Barrier solved model in 6 iterations and 0.03 seconds
+Optimal objective 8.19435612e+03
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 24 rows, 27 columns and 66 nonzeros
+Model has 3 quadratic objective terms
+Variable types: 24 continuous, 3 integer (3 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [1e+00, 2e+03]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 23 rows and 24 columns
+Presolve time: 0.00s
+Presolved: 1 rows, 3 columns, 3 nonzeros
+Presolved model has 3 quadratic objective terms
+Variable types: 3 continuous, 0 integer (0 binary)
+Presolve time: 0.01s
+Presolved: 1 rows, 3 columns, 3 nonzeros
+Presolved model has 3 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 0.000e+00
+ Factor NZ  : 1.000e+00
+ Factor Ops : 1.000e+00 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.57860076e+06 -1.28337838e+06  2.50e+03 9.93e+02  1.01e+06     0s
+   1   8.20677955e+03 -5.04258123e+04  2.50e-03 9.93e-04  9.77e+03     0s
+   2   8.20611423e+03  8.06223325e+03  3.14e-06 1.25e-06  2.40e+01     0s
+   3   8.19472273e+03  8.18675247e+03  1.53e-08 6.07e-09  1.33e+00     0s
+   4   8.19435631e+03  8.19423133e+03  1.78e-14 8.88e-16  2.08e-02     0s
+   5   8.19435612e+03  8.19435600e+03  0.00e+00 5.33e-15  2.08e-05     0s
+   6   8.19435612e+03  8.19435612e+03  3.55e-15 6.22e-15  2.08e-08     0s
+   7   8.19435612e+03  8.19435612e+03  3.55e-15 1.78e-15  2.08e-11     0s
+
+Barrier solved model in 7 iterations and 0.03 seconds
+Optimal objective 8.19435612e+03
+
+
+Root relaxation: objective 8.194356e+03, 0 iterations, 0.03 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    8194.3561213 8194.35612  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.05 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 8194.36 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.194356121270e+03, best bound 8.194356121270e+03, gap 0.0000%
+Warning: variables 0 and 12 have the same name "Pgen[0,0]"
+Warning: linear constraint 0 and linear constraint 9 have the same name "PowerFlow[0,1,0]"
+Warning: to let Gurobi read it back, use rlp format
+
+Gurobi 8.0.1 (win64, Python) logging started 09/06/18 23:58:57
+
+Parameter Method unchanged
+   Value: -1  Min: -1  Max: 5  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Optimize a model with 15 rows, 15 columns and 39 nonzeros
+Model has 3 quadratic objective terms
+Variable types: 12 continuous, 3 integer (3 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [8e+00, 8e+00]
+  QObjective range [3e-03, 1e-02]
+  Bounds range     [1e+00, 2e+03]
+  RHS range        [1e+02, 6e+02]
+Presolve removed 11 rows and 10 columns
+Presolve time: 0.00s
+Presolved: 4 rows, 5 columns, 10 nonzeros
+Presolved model has 3 quadratic objective terms
+Variable types: 4 continuous, 1 integer (1 binary)
+
+Root relaxation: objective 8.194356e+03, 10 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 8194.35612    0    1          - 8194.35612      -     -    0s
+H    0     0                    8279.2904911 8194.35612  1.03%     -    0s
+H    0     0                    8194.3561213 8194.35612  0.00%     -    0s
+
+Explored 1 nodes (10 simplex iterations) in 0.03 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 8194.36 8279.29 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.194356121270e+03, best bound 8.194356121270e+03, gap 0.0000%
